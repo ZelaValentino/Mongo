@@ -1,0 +1,3 @@
+{"_id":{"$oid":"68f7ae0cc36122a201cebea7"},"name":"Laptop","price":{"$numberInt":"1200"},"categories":[{"$oid":"68f7ae0cc36122a201cebea4"}]}
+{"_id":{"$oid":"68f7ae0cc36122a201cebea8"},"name":"Remera","price":{"$numberInt":"25"},"categories":[{"$oid":"68f7ae0cc36122a201cebea5"}]}
+{"_id":{"$oid":"68f7ae0cc36122a201cebea9"},"name":"Cafetera","price":{"$numberInt":"80"},"categories":[{"$oid":"68f7ae0cc36122a201cebea6"}]}

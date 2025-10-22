@@ -1,0 +1,2 @@
+{"_id":{"$oid":"68f7b7158619cf6baacebea5"},"productId":{"$oid":"68f7ae0cc36122a201cebea7"},"userId":{"$oid":"68f7b2b3b0a977d09acebea4"},"rating":{"$numberInt":"5"},"comment":"Excelente producto"}
+{"_id":{"$oid":"68f7b7158619cf6baacebea6"},"productId":{"$oid":"68f7ae0cc36122a201cebea9"},"userId":{"$oid":"68f7b2b3b0a977d09acebea4"},"rating":{"$numberInt":"4"},"comment":"Buena relación precio/calidad"}

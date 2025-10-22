@@ -1,0 +1,1 @@
+{"_id":{"$oid":"68f7b6218619cf6baacebea4"},"userId":{"$oid":"68f7b2b3b0a977d09acebea4"},"products":[{"$oid":"68f7ae0cc36122a201cebea9"},{"$oid":"68f7ae0cc36122a201cebea7"}],"total":{"$numberInt":"1280"},"status":"pendiente"}
